@@ -1,0 +1,118 @@
+[
+    {
+        "storeId": 1,
+        "storeTitle": "ร้านขายรถของเล่น",
+        "storeSubDescription": "ของรถคุณภาพดี เหมือนจริง เปิดประตูได้ทุกคัน",
+        "storeDetail": "xxxx xxxx xxxx xx xxxx xx xx xxxx xxxx xxxx xx xxxx xx xx xxxx xxxx xxxx xx xxxx xx xx xxxx xxxx xxxx xx xxxx xx xx xxxx xxxx xxxx xx xxxx xx xx",
+        "storeCardImage": "https://sv1.picz.in.th/images/2022/07/31/XZVB0V.png",
+        "storeGallery": [
+            {
+                "id": 1,
+                "imageUrl": "https://sv1.picz.in.th/images/2022/07/31/XZV48N.png"
+            },
+            {
+                "id": 2,
+                "imageUrl": "https://sv1.picz.in.th/images/2022/07/31/XZVfcQ.png"
+            },
+            {
+                "id": 3,
+                "imageUrl": "https://sv1.picz.in.th/images/2022/07/31/XZVh2S.png"
+            },
+            {
+                "id": 4,
+                "imageUrl": "https://sv1.picz.in.th/images/2022/07/31/XZVkyn.png"
+            },
+            {
+                "id": 5,
+                "imageUrl": "https://sv1.picz.in.th/images/2022/07/31/XZV9Tg.png"
+            }
+        ]
+    },
+    {
+        "storeId": 2,
+        "storeTitle": "ร้านขาย Lego",
+        "storeSubDescription": "เรามี Lego ทุกชิ้นส่วน ของ rare หายาก มีขายที่นี่",
+        "storeDetail": "xxxx xxxx xxxx xx xxxx xx xx xxxx xxxx xxxx xx xxxx xx xx xxxx xxxx xxxx xx xxxx xx xx xxxx xxxx xxxx xx xxxx xx xx xxxx xxxx xxxx xx xxxx xx xx",
+        "storeCardImage": "https://sv1.picz.in.th/images/2022/07/31/XZ6qIe.png",
+        "storeGallery": [
+            {
+                "id": 1,
+                "imageUrl": "https://sv1.picz.in.th/images/2022/07/31/XZ6Uut.png"
+            },
+            {
+                "id": 2,
+                "imageUrl": "https://sv1.picz.in.th/images/2022/07/31/XZ6Ewl.png"
+            },
+            {
+                "id": 3,
+                "imageUrl": "https://sv1.picz.in.th/images/2022/07/31/XZ6ODk.png"
+            },
+            {
+                "id": 4,
+                "imageUrl": "https://sv1.picz.in.th/images/2022/07/31/XZ6bJv.png"
+            },
+            {
+                "id": 5,
+                "imageUrl": "https://sv1.picz.in.th/images/2022/07/31/XZ6lhE.png"
+            }
+        ]
+    },
+    {
+        "storeId": 3,
+        "storeTitle": "ร้านขายบ้านขอเล่น",
+        "storeSubDescription": "เรามีทุกรูปเเบบของบ้าน เเละรับทำบ้านตัวอย่าง ตามความต้องการ ราคาเป็นกันเอง",
+        "storeDetail": "xxxx xxxx xxxx xx xxxx xx xx xxxx xxxx xxxx xx xxxx xx xx xxxx xxxx xxxx xx xxxx xx xx xxxx xxxx xxxx xx xxxx xx xx xxxx xxxx xxxx xx xxxx xx xx",
+        "storeCardImage": "https://sv1.picz.in.th/images/2022/07/31/XZVg79.png",
+        "storeGallery": [
+            {
+                "id": 1,
+                "imageUrl": "https://sv1.picz.in.th/images/2022/07/31/XZVZ8D.png"
+            },
+            {
+                "id": 2,
+                "imageUrl": "https://sv1.picz.in.th/images/2022/07/31/XZVicJ.png"
+            },
+            {
+                "id": 3,
+                "imageUrl": "https://sv1.picz.in.th/images/2022/07/31/XZVR2b.png"
+            },
+            {
+                "id": 4,
+                "imageUrl": "https://sv1.picz.in.th/images/2022/07/31/XZVxFf.png"
+            },
+            {
+                "id": 5,
+                "imageUrl": "https://sv1.picz.in.th/images/2022/07/31/XZVUTa.png"
+            }
+        ]
+    },
+    {
+        "storeId": 4,
+        "storeTitle": "ร้านขายตุ๊กตาหมี",
+        "storeSubDescription": "เรามีทุกขนาด ทุกสี ขนนิ่ม ทำจากขนฝ้ายคุณภาพดี",
+        "storeDetail": "xxxx xxxx xxxx xx xxxx xx xx xxxx xxxx xxxx xx xxxx xx xx xxxx xxxx xxxx xx xxxx xx xx xxxx xxxx xxxx xx xxxx xx xx xxxx xxxx xxxx xx xxxx xx xx",
+        "storeCardImage": "https://sv1.picz.in.th/images/2022/07/31/XZHLU0.png",
+        "storeGallery": [
+            {
+                "id": 1,
+                "imageUrl": "https://sv1.picz.in.th/images/2022/07/31/XZHJNR.png"
+            },
+            {
+                "id": 2,
+                "imageUrl": "https://sv1.picz.in.th/images/2022/07/31/XZHeru.png"
+            },
+            {
+                "id": 3,
+                "imageUrl": "https://sv1.picz.in.th/images/2022/07/31/XZHy0Z.png"
+            },
+            {
+                "id": 4,
+                "imageUrl": "https://sv1.picz.in.th/images/2022/07/31/XZHFZI.png"
+            },
+            {
+                "id": 5,
+                "imageUrl": "https://sv1.picz.in.th/images/2022/07/31/XZHIsP.png"
+            }
+        ]
+    }
+]
