@@ -9,7 +9,7 @@ const data2 = require('./data2.json');
 app.use(cors());
 
 // const models = require("../models/");
-const port = 3001;
+const port = process.env.PORT || 3001;
 
 app.use(bodyParser.json({ limit: '5mb' }));
 
